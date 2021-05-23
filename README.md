@@ -1,1 +1,2 @@
 # student-marks-predictor
+Designed a machine learning model for the prediction of students marks on the basis of hours they study and to analyse how many students Pass or Fail. Linear regression algorithm is used to train model and prediction. The Project aims to predict student marks using Bayesian Linear Regression. Language used was Python3 and built on the Anaconda platform using Jupyter Notebook .
